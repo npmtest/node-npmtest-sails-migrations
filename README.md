@@ -1,4 +1,7 @@
-# test coverage for  [sails-migrations (v2.0.10)](https://github.com/BlueHotDog/sails-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-sails-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sails-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sails-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-sails-migrations)
+# npmtest-sails-migrations
+
+#### basic test coverage for  [sails-migrations (v2.0.10)](https://github.com/BlueHotDog/sails-migrations)  [![npm package](https://img.shields.io/npm/v/npmtest-sails-migrations.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sails-migrations) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sails-migrations.svg)](https://travis-ci.org/npmtest/node-npmtest-sails-migrations)
+
 #### The missing, migrations, arm of the octopus
 
 [![NPM](https://nodei.co/npm/sails-migrations.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sails-migrations)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-sails-migrations/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-sails-migrations/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-sails-migrations/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-sails-migrations/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sails-migrations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sails-migrations/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-sails-migrations/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-sails-migrations/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-sails-migrations/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-sails-migrations/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-sails-migrations/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-sails-migrations/build/coverage.html/index.html)
 
